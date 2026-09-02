@@ -116,6 +116,7 @@ body{
     margin-left: 15%;
     margin-right: 15%;
     margin-bottom: 5px;
+    height: -10%;
     
 
     & hr{
@@ -156,6 +157,15 @@ body{
     background-color: blue;
 }
 
+.MyPic{
+
+    height: 30%;
+    margin-left: 40%;
+    margin-right: 30%;
+    margin-top: 2%;    
+
+
+}
 
 .footer{
     text-align: left;
